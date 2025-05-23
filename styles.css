@@ -867,7 +867,7 @@ body.dark-theme .header__btns button{
   color: #ffffff;
 }
 body.dark-theme .showcase__btn{
-  background-color: var(--card-bg);
+  background-color: #555555;
   color: var(--text-color);
   border-color: var(--accent-color);
 }
